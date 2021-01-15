@@ -1,0 +1,19 @@
+.title{
+    /*border-left: 1px solid #00402a;*/
+    float:left;
+    margin-left: 20px;
+    padding-left: 15px;
+    font-size: 24px;
+    color: #f4623a !important;
+    font-weight: 700;
+    line-height: 48px;
+    margin-top: 15px;
+    position: relative;
+    background: transparent;
+    -webkit-box-shadow: -5px 0px 8px -6px rgba(12,66,7,1);
+    -moz-box-shadow:    -5px 0px 8px -6px rgba(12,66,7,1);
+    box-shadow:         -5px 0px 8px -6px rgba(12,66,7,1);
+    
+    /*text-shadow: 0 0 1px #A1A1A1;*/
+    text-align: center;
+}

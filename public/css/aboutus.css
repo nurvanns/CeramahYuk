@@ -1,0 +1,21 @@
+.section{
+	min-height: 250PX;
+}
+
+hr{
+
+	border-top: solid 5px orange;
+	width: 250px;
+
+}
+
+footer {
+    background: #343a40;
+    padding: 40px;
+}
+footer a {
+    color: #f8f9fa!important
+}
+body{
+	background-color: lightgray;
+}
